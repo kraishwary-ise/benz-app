@@ -33,7 +33,7 @@ public class Manager {
 		return rList;
 				
 				
-				
+				//
 			
 		}
 	private Integer getDPSum(Items car) {
